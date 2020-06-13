@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "493654699076",
+    "firebase_url": "https://snap-bf27f.firebaseio.com",
+    "project_id": "snap-bf27f",
+    "storage_bucket": "snap-bf27f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493654699076:android:f5fee9b9812aafec40a011",
+        "android_client_info": {
+          "package_name": "com.example.snapchatoreo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493654699076-js5jpaj1onbkjn89pppvbrk7brdr1gdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWsS-spYvdM9rj7CPrdVU7J7W_8Euxac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493654699076-js5jpaj1onbkjn89pppvbrk7brdr1gdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493654699076:android:737ace91d4d05d1240a011",
+        "android_client_info": {
+          "package_name": "com.example.vatsal.snap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493654699076-js5jpaj1onbkjn89pppvbrk7brdr1gdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWsS-spYvdM9rj7CPrdVU7J7W_8Euxac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493654699076-js5jpaj1onbkjn89pppvbrk7brdr1gdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
