@@ -108,7 +108,9 @@ class CreateSnapActivity : AppCompatActivity() {
                 Log.i("URL   ", url)
 
                 val intent=Intent(this, ChooseUserActivity::class.java)
-
+                intent.putExtra("imageURL",url.toString())
+                intent.putExtra("imageName",imageName)
+                intent.putExtra("message",messageEditText?.text.toString())
                 startActivity(intent)
 
             }
